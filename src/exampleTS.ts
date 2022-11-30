@@ -5,3 +5,8 @@ count = 1;
 let strig: string;
 // @ts-ignore
 const non = strig.length
+
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+// @ts-ignore
+let test = ['none', "balap", "typescript"];
+test.push(11)
