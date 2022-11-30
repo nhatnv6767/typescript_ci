@@ -8,5 +8,5 @@ const non = strig.length
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 // @ts-ignore
-let test = ['none', "balap", "typescript"];
+let test = ['none', "balap", "typescript", 55];
 test.push(11)
