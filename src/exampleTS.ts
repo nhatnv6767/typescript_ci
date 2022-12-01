@@ -2,4 +2,10 @@
 let person: object;
 
 person = {name: "None"}
-person = "Another"
+
+let obj: {
+    name: string,
+    age: number
+}
+
+
