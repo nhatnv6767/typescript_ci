@@ -6,6 +6,9 @@ person = {name: "None"}
 let obj: {
     name: string,
     age: number
+} = {
+    name: "None",
+    age: 20
 }
 
 
