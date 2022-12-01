@@ -1,5 +1,5 @@
 // @ts-ignore
-let mine = {}
-mine = {name: "None"}
+let person: object;
 
-mine.address = "Where"
+person = {name: "None"}
+person = "Another"
