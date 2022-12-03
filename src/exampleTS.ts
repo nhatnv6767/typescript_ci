@@ -8,7 +8,7 @@ let obj: {
     age: number
 } = {
     name: "None",
-    age: 20
+    age: 22
 }
 
 
